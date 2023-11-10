@@ -1,0 +1,10 @@
+package OnlineStore;
+
+import java.util.ArrayList;
+
+public class SalesReport {
+	
+	private List<Order> orders = new ArrayList<>();
+	private SalesReport(List<Order> orders) 
+
+}

@@ -1,0 +1,10 @@
+package OnlineStore;
+
+public class CryptoPaymentGateway {
+      private String url;
+      private String apiKey;
+      
+      public void CryptoPaymentGateway(String apiKey) {
+    	  
+      }
+}

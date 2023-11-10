@@ -1,0 +1,6 @@
+package Diagram;
+
+public class Cash {
+	private float cashTendered;
+
+}

@@ -1,0 +1,12 @@
+package OnlineStore;
+
+public class SalesReport {
+	private SalesReport(List<Order> orders) {
+		
+	}
+	
+	
+	
+	
+
+}

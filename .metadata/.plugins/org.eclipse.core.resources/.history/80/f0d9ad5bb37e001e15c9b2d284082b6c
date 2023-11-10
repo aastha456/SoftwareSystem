@@ -1,0 +1,8 @@
+package OnlineStore;
+
+public class CreditCardPayment {
+	
+	private String targetSevertip;
+	
+
+}

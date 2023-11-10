@@ -1,0 +1,12 @@
+package OnlineStore;
+
+import java.util.Date;
+
+public class Customer {
+	
+	private String customerID;
+	private String name;
+	private String emailAddress;
+	private Date dateOfBirth;
+
+}

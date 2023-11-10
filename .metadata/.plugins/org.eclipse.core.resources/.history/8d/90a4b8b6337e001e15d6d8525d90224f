@@ -1,0 +1,29 @@
+package OnlineStore;
+
+import java.util.Date;
+
+import Diagram.Items;
+
+public class OrderHeader {
+	private String orderID;
+	private Date orderDate;
+	private double deliveryFee;
+	private DeliveryPriority priority;
+	private Items item;
+	
+	public void OrderHeader(Customer customer) {
+		
+	}
+	public void addLine(int item) {
+		
+	}
+	
+	public boolean hasRestrictedItems() {
+		
+	}
+	
+	
+	
+	
+
+}
