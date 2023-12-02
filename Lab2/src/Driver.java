@@ -1,6 +1,14 @@
 import java.util.Scanner;
+/**
+ * Driver Class that is used for testing the WordProcessor and Counter functionality.
+ * 
+ *
+ */
 public class Driver {
-
+	/**
+	 * This is the main method of the application, where user input is taken and WordProcessor
+	 * functionality is tested.
+	 */
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter a sentence: ");

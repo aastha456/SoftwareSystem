@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"exc_lab","c":"ArrayProcessor","l":"ArrayProcessor()","u":"%3Cinit%3E()"},{"p":"exc_lab","c":"ArrayProcessor","l":"getAarrayLength(Object[])","u":"getAarrayLength(java.lang.Object[])"}];updateSearchResults();

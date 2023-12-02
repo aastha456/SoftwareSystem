@@ -7,11 +7,17 @@ import java.util.Random;
  */
 
 public class Driver {
-	public static void main(String[] args) {final int VALUES = 10;
+	/**
+	 * Main methods is introduced to test the stat class
+	 * 
+	 * @param args Command-line arguments
+	 */
+	public static void main(String[] args) {
+		final int VALUES = 10;
 
 		Stats stats = new Stats(VALUES);
 
-Random random = new Random();
+        Random random = new Random();
 		
 		for (int i = 0; i < VALUES; i++) {
 			

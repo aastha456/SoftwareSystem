@@ -49,7 +49,7 @@ public class Stats {
 	/**
 	 * Getting the minimum value
 	 * 
-	 * @return the minimun value
+	 * @return the minimum value
 	 */
 
 	public int getB() {
@@ -64,9 +64,9 @@ public class Stats {
 		return min;
 	}
 	/**
+	 * getting the total of all element in the array
 	 * 
-	 * 
-	 * @return
+	 * @return the total element in the array
 	 */
 	
 	public int getTotal() {
@@ -79,9 +79,9 @@ public class Stats {
 		}		return total;
 	}
 	/**
+	 * Getting the average of all elements
 	 * 
-	 * 
-	 * @return
+	 * @return the average of all elements
 	 */
 	
 	public double get() {
@@ -111,7 +111,7 @@ public class Stats {
 	/**
 	 * returns the representative of data string
 	 * 
-	 * @returns the representative of string
+	 * @return the representative of string
 	 */
 
 	@Override
@@ -128,9 +128,4 @@ public class Stats {
 		data = new int[capacity];
 	}
 
-	
-	
-	
-	
-	
 }

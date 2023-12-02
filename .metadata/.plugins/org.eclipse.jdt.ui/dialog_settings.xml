@@ -37,7 +37,7 @@
 		<item key="fromStandard" value="true"/>
 		<item key="docletname" value=""/>
 		<item key="docletpath" value=""/>
-		<item key="access" value="package"/>
+		<item key="access" value="public"/>
 		<item key="use" value="true"/>
 		<item key="author" value="true"/>
 		<item key="version" value="true"/>
@@ -48,9 +48,15 @@
 		<item key="notree" value="false"/>
 		<item key="nonavbar" value="false"/>
 		<item key="openinbrowser" value="false"/>
-		<item key="source" value="1.3"/>
-		<item key="destdir" value="C:\Users\Dell\Documents\System Software\Lab3"/>
+		<item key="source" value="17"/>
+		<item key="antpath" value="C:\Users\Dell\Documents\System Software\exc_lab\javadoc.xml"/>
+		<item key="destdir" value="C:\Users\Dell\Documents\System Software\exc_lab\doc"/>
 		<section name="projects">
+			<section name="Online">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Dell\Documents\System Software\Online\doc"/>
+				<item key="antpath" value="C:\Users\Dell\Documents\System Software\Online\javadoc.xml"/>
+			</section>
 			<section name="Lab4">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Dell\Documents\System Software\Lab4\doc"/>
@@ -60,6 +66,21 @@
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Dell\Documents\System Software\UMLDiagram\doc"/>
 				<item key="antpath" value="C:\Users\Dell\Documents\System Software\UMLDiagram\javadoc.xml"/>
+			</section>
+			<section name="exc_lab">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Dell\Documents\System Software\exc_lab\doc"/>
+				<item key="antpath" value="C:\Users\Dell\Documents\System Software\exc_lab\javadoc.xml"/>
+			</section>
+			<section name="Lab5">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Dell\Documents\System Software\Lab5\doc"/>
+				<item key="antpath" value="C:\Users\Dell\Documents\System Software\Lab5\javadoc.xml"/>
+			</section>
+			<section name="Lab6">
+				<item key="href" value=""/>
+				<item key="destdir" value="C:\Users\Dell\Documents\System Software\Lab6\doc"/>
+				<item key="antpath" value="C:\Users\Dell\Documents\System Software\Lab6\javadoc.xml"/>
 			</section>
 			<section name="Lab1">
 				<item key="href" value=""/>
@@ -74,8 +95,22 @@
 			<section name="Lab3">
 				<item key="href" value=""/>
 				<item key="destdir" value="C:\Users\Dell\Documents\System Software\Lab3"/>
-				<item key="antpath" value=""/>
+				<item key="antpath" value="C:\Users\Dell\Documents\System Software\Lab3\javadoc.xml"/>
 			</section>
+		</section>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="137"/>
+			<item key="DIALOG_Y_ORIGIN" value="-13"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
 </section>

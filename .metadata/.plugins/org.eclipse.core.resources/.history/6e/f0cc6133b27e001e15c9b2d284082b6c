@@ -1,5 +1,0 @@
-package OnlineStore;
-
-public interface PaymentGateway {
-
-}

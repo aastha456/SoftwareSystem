@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Email","c":"WordCounterDriver","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"Email","c":"WordCounterDriver","l":"WordCounterDriver()","u":"%3Cinit%3E()"}];updateSearchResults();
